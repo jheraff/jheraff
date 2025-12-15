@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhermayne</h1>
-<h3 align="center">A passionate While growing up, I have been interested in how the way websites and games are made and this has made it where I have pursed a bachelor's degree in Computer Science all while making projects that I have been interested on for the past couple of years. I am great in working with Java, Python, and C# but I do love learning languages in general so I am adaptable to working with a range of other languages and frameworks.</h3>
+<h3 align="center">While growing up, I have been interested in how the way websites and games are made and this has made it where I have pursed a bachelor's degree in Computer Science all while making projects that I have been interested on for the past couple of years. I am great in working with Java, Python, and C# but I do love learning languages in general so I am adaptable to working with a range of other languages and frameworks.</h3>
 
 - 👯 I’m looking to collaborate on **games**
 
